@@ -1,4 +1,4 @@
-# AntiWallBang
+# E-AntiWallBang
 
 # Information:
 Just A Simple AntiWallBang For Fivem RolePlay Servers.
