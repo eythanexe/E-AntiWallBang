@@ -1,7 +1,7 @@
 # AntiWallBang
 
 # Information:
-Just A Simple Anti WallBang For Fivem RolePlay Servers.
+Just A Simple AntiWallBang For Fivem RolePlay Servers.
 
 # Need Help?
 - My Discord Name: eythan.exe
